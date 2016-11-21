@@ -1,0 +1,14 @@
+{
+  "name": "hollapay",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "lodash": "*",
+    "fs": "*",
+    "path": "*",
+    "swagger-parser": "*"
+  },
+  "repository": "benjaminmcdonald/gen-swagger-javascript-client",
+  "author": "",
+  "license": "GPL"
+}
