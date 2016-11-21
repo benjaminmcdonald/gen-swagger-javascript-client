@@ -15,5 +15,7 @@ require('./scripts/gen-swagger-client-script.js')
     .genJsScript('./api-spec/holla-api-spec.yaml', './scripts/');
 ```
 
+genJsScript(yaml swagger spec, directory to put the client api)
+
 
 
