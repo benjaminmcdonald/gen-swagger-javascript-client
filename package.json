@@ -1,6 +1,6 @@
 {
-  "name": "hollapay",
-  "version": "1.0.0",
+  "name": "gen-swagger-javascript-client",
+  "version": "1.0.1",
   "description": "",
   "dependencies": {
     "lodash": "*",
